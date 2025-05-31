@@ -34,10 +34,10 @@ I'm fun to work with, I always like to learn new things from others as much as h
 ------
 
 
-##  <a href="https://git-scm.com/" target="_blank"> 
+ <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> 
   </a>
-: My Favorite Tools
+### My Favorite Tools
 
 ### 👨‍💻 Programming Languages
 
