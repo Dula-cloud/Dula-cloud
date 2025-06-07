@@ -1,4 +1,4 @@
-![Srihari Kapu](https://github.com/sriharikapu/sriharikapu/blob/master/CO.png?raw=true)
+![Black and Gray Minimalist LinkedIn Banner](https://github.com/user-attachments/assets/2a103356-ce93-4af2-bc93-6f2b30f35755)
 
 I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. You know what else is fun! Learning code is. Let's work for a better opensource, decentralized future. A world where everything is free and everyone is free to experiment, learn, survive and thrive. Let's code for good.
 
